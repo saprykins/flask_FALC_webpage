@@ -11,7 +11,6 @@ python application.py
 you can check if site is available here
 http://138.195.138.220:5000/
 
-
 to put the website running without my connection via ssh
 I run the command ~ python3 application.py
 ctr+z
